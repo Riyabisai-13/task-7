@@ -20,4 +20,4 @@
 
 ## After removal of the extensions
 
-1. My browser started working smoothly than before and unecessaru ads also stopped appearing.
+1. I went to the extensions clicked on the "remove" option and the particular extension stopped working. My browser started working smoothly than before and unecessaru ads also stopped appearing.
